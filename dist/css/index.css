@@ -1,0 +1,6 @@
+.box {
+  color: red; }
+  .box ul {
+    list-style: none; }
+    .box ul li {
+      float: left; }
